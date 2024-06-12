@@ -1,7 +1,7 @@
 # PRODIGY_CS_03
 
 # 🔑 Password Complexity Checker
-Internship Task 1 at Prodigy InfoTech
+Internship Task_03 at Prodigy InfoTech
 
 ## 📜 Overview
 This program implements a password complexity checker tool using Python and Tkinter for the graphical user interface. 
