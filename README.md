@@ -59,7 +59,7 @@ types (uppercase, lowercase, digits, and special characters), and unpredictabili
 
 ## 📄 Code Details Overview
 
-### `password_checker.py`
+### `task3_password_complexity_checker.ipynb`
 
 #### Imports
 ```python
