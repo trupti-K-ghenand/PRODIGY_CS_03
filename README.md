@@ -81,7 +81,7 @@ import re
 - **Button**: Triggers the password strength assessment.
 
 ## Thanks👏
-Thank you for using and contributing to this repository! I sincerely appreciate your interest and hope you find the Caesar Cipher programs helpful for your cryptography learning journey.
+Thank you for using and contributing to this repository! I sincerely appreciate your interest and hope you find the Password Complexity Checker program helpful for your Cyber Security learning journey.
 
 ## Contribute🤝
 Welcome all contributions to enhance these programs and expand their capabilities.
